@@ -1,0 +1,28 @@
+h1{
+    background-color: darkgoldenrod; 
+}
+img{
+    border-radius: 90px;
+    width: 90x; 
+    height: 90px ;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gold;
+    border: 50px;
+}
+video{
+    width: 550px;
+    height: 450px;
+}
+
+.texto{
+ display: flex; align-items: center;
+ margin: 5px;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    color: darkgoldenrod;
+}
